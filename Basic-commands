@@ -1,0 +1,5 @@
+Запуск миграций:
+	npm run typeorm migration:run
+
+Роллбэк миграций:
+	npm run typeorm migration:revert
